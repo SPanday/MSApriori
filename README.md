@@ -1,7 +1,7 @@
 # MSApriori
 ## Authors : Shobhit Lamba, Sakshi Panday
 
-###Applying Apriori algorithm on items with multiple minimum support
+### Applying Apriori algorithm on items with multiple minimum support
 
 The project has been coded in Python 3.6 and should work in any 3.x versions
 of the language.
